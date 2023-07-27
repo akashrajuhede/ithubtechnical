@@ -1,0 +1,6 @@
+public static void main (string args[])
+{
+system.out.println("hello ");
+system.out.println(just focus on yourself and bappa and mata");
+system.out.pritln(my name is akash and i am a devops engineer");
+system.out.println("to kese he app log");
