@@ -1,0 +1,8 @@
+#include<iostream>
+using namespace std;
+int main () {
+cout<<"hello world";
+cout <<"java is powerful language as compere to other ";
+cout <<" coding is a passion of our genratation";
+retrun 0;
+}
